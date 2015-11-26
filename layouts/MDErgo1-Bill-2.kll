@@ -1,0 +1,19 @@
+Author = "Bill Wiens 2015";
+Base = "Blank";
+Date = "2015-09-12";
+Generator = "Mind 1.0";
+KLL = "0.3c";
+Layout = "Default";
+Name = "MDErgo1";
+Version = "0.1";
+
+U"ESC" : SYS"WAKEUP";
+U"9" : CONS"BRIGHTNESSDECREMENT";
+U"0" : CONS"BRIGHTNESSINCREMENT";
+U"SLASH" : CONS"VOLUMEUP";
+U"RSHIFT" : CONS"PAUSEPLAY";
+U"DOWN" : CONS"MUTE";
+U"UP" : CONS"SCANPREVIOUSTRACK";
+U"RIGHT" : CONS"VOLUMEDOWN";
+U"RGUI" : CONS"SCANNEXTTRACK";
+
